@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "bs4>=0.0.2",
     "gensim>=4.4.0",
+    "graphviz>=0.21",
     "ipykernel>=7.1.0",
     "keras>=3.14.0",
     "kneed>=0.8.5",
@@ -26,5 +27,6 @@ dependencies = [
     "tensorflow>=2.21.0",
     "torch>=2.10.0",
     "torchvision>=0.25.0",
+    "torchviz>=0.0.3",
     "tqdm>=4.67.3",
 ]
